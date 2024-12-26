@@ -1,0 +1,15 @@
+.opcoes {
+  display: flex;
+}
+
+.opcao {
+  font-size: 16px;
+  max-width: 120px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-width: 120px;
+  height: 100%;
+  padding: 0 5px;
+  cursor: pointer;
+}
